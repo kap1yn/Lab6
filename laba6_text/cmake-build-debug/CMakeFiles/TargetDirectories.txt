@@ -1,0 +1,3 @@
+C:/Users/Acer/CLionProjects/laba6_text/cmake-build-debug/CMakeFiles/laba6_text.dir
+C:/Users/Acer/CLionProjects/laba6_text/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acer/CLionProjects/laba6_text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
